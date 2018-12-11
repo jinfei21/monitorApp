@@ -81,7 +81,7 @@ module.exports = (options = {}) => ({
         contentBase: [path.join(__dirname, "public"), path.join(__dirname, "/assets")],
         proxy: {
             '/api/': {
-                target: 'http://172.17.2.161:8089',
+                target: 'http://localhost:8089',
                 changeOrigin: true,
             }
         },
