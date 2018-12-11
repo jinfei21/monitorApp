@@ -28,9 +28,9 @@ npm run build
 
 ``` bash
 # update the hosts file
-localhost slb.ppdaicorp.com
+localhost slb.jinfei.com
 
-# serve with hot reload at http://slb.ppdaicorp.com:80/
+# serve with hot reload at http://slb.jinfei.com:80/
 npm run dev
 ```
 https://elemefe.github.io/v-charts/#/line
